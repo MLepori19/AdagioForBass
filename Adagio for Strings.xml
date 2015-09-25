@@ -94,7 +94,7 @@ arr. Seth Butler</credit-words>
       <midi-instrument id="P1-I1">
         <midi-channel>1</midi-channel>
         <midi-program>49</midi-program>
-        <volume>79</volume>
+        <volume>36</volume>
         <pan>0</pan>
       </midi-instrument>
     </score-part>
@@ -109,7 +109,7 @@ arr. Seth Butler</credit-words>
       <midi-instrument id="P2-I2">
         <midi-channel>3</midi-channel>
         <midi-program>49</midi-program>
-        <volume>79</volume>
+        <volume>40</volume>
         <pan>0</pan>
       </midi-instrument>
     </score-part>
@@ -130,7 +130,7 @@ arr. Seth Butler</credit-words>
         <midi-channel>5</midi-channel>
         <midi-bank>15489</midi-bank>
         <midi-program>41</midi-program>
-        <volume>79</volume>
+        <volume>35</volume>
         <pan>0</pan>
       </midi-instrument>
     </score-part>
@@ -145,7 +145,7 @@ arr. Seth Butler</credit-words>
       <midi-instrument id="P4-I4">
         <midi-channel>6</midi-channel>
         <midi-program>49</midi-program>
-        <volume>79</volume>
+        <volume>44</volume>
         <pan>0</pan>
       </midi-instrument>
     </score-part>
@@ -163,7 +163,7 @@ arr. Seth Butler</credit-words>
       <midi-instrument id="P5-I5">
         <midi-channel>7</midi-channel>
         <midi-program>49</midi-program>
-        <volume>79</volume>
+        <volume>52</volume>
         <pan>0</pan>
       </midi-instrument>
     </score-part>
@@ -176,7 +176,7 @@ arr. Seth Butler</credit-words>
       <midi-instrument id="P6-I6">
         <midi-channel>8</midi-channel>
         <midi-program>49</midi-program>
-        <volume>79</volume>
+        <volume>48</volume>
         <pan>0</pan>
       </midi-instrument>
     </score-part>
@@ -194,7 +194,7 @@ arr. Seth Butler</credit-words>
       <midi-instrument id="P7-I7">
         <midi-channel>9</midi-channel>
         <midi-program>49</midi-program>
-        <volume>79</volume>
+        <volume>100</volume>
         <pan>0</pan>
       </midi-instrument>
     </score-part>
@@ -207,7 +207,7 @@ arr. Seth Butler</credit-words>
       <midi-instrument id="P8-I8">
         <midi-channel>11</midi-channel>
         <midi-program>49</midi-program>
-        <volume>80</volume>
+        <volume>100</volume>
         <pan>0</pan>
       </midi-instrument>
     </score-part>
@@ -1883,7 +1883,7 @@ cantando</words>
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="31" width="355">
+    <measure number="31" width="354">
       <attributes>
         <time>
           <beats>5</beats>
@@ -1911,7 +1911,7 @@ cantando</words>
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="33" width="377">
+    <measure number="33" width="378">
       <note>
         <rest measure="yes"/>
         <duration>64</duration>
@@ -4642,7 +4642,7 @@ cantando</words>
           <tied type="stop"/>
         </notations>
       </note>
-      <note default-x="341">
+      <note default-x="342">
         <pitch>
           <step>E</step>
           <alter>-1</alter>
@@ -4666,7 +4666,7 @@ cantando</words>
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="31" width="355">
+    <measure number="31" width="354">
       <attributes>
         <time>
           <beats>5</beats>
@@ -4735,7 +4735,7 @@ cantando</words>
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="33" width="377">
+    <measure number="33" width="378">
       <note default-x="16">
         <pitch>
           <step>G</step>
@@ -7152,7 +7152,7 @@ cantando</words>
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="31" width="355">
+    <measure number="31" width="354">
       <attributes>
         <time>
           <beats>5</beats>
@@ -7214,7 +7214,7 @@ cantando</words>
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="33" width="377">
+    <measure number="33" width="378">
       <note default-x="16">
         <pitch>
           <step>D</step>
@@ -9342,7 +9342,7 @@ cantando</words>
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="31" width="355">
+    <measure number="31" width="354">
       <attributes>
         <time>
           <beats>5</beats>
@@ -9402,7 +9402,7 @@ cantando</words>
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="33" width="377">
+    <measure number="33" width="378">
       <note default-x="16">
         <pitch>
           <step>E</step>
@@ -11486,7 +11486,7 @@ cantando</words>
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="31" width="355">
+    <measure number="31" width="354">
       <attributes>
         <time>
           <beats>5</beats>
@@ -11514,7 +11514,7 @@ cantando</words>
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="33" width="377">
+    <measure number="33" width="378">
       <note>
         <rest measure="yes"/>
         <duration>16</duration>
@@ -13197,7 +13197,7 @@ cantando</words>
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="31" width="355">
+    <measure number="31" width="354">
       <attributes>
         <time>
           <beats>5</beats>
@@ -13225,7 +13225,7 @@ cantando</words>
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="33" width="377">
+    <measure number="33" width="378">
       <note>
         <rest measure="yes"/>
         <duration>16</duration>
@@ -15107,7 +15107,7 @@ cantando</words>
         <type>quarter</type>
         <stem default-y="-20">down</stem>
       </note>
-      <note default-x="162">
+      <note default-x="163">
         <pitch>
           <step>D</step>
           <alter>-1</alter>
@@ -15118,7 +15118,7 @@ cantando</words>
         <type>quarter</type>
         <stem default-y="-20">down</stem>
       </note>
-      <note default-x="207">
+      <note default-x="208">
         <pitch>
           <step>B</step>
           <alter>-1</alter>
@@ -15155,7 +15155,7 @@ cantando</words>
         <type>quarter</type>
         <stem default-y="-20">down</stem>
       </note>
-      <note default-x="341">
+      <note default-x="342">
         <pitch>
           <step>C</step>
           <octave>5</octave>
@@ -15194,7 +15194,7 @@ cantando</words>
       </direction>
     </measure>
     <!--=======================================================-->
-    <measure number="31" width="355">
+    <measure number="31" width="354">
       <attributes>
         <time>
           <beats>5</beats>
@@ -15334,7 +15334,7 @@ cantando</words>
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="33" width="377">
+    <measure number="33" width="378">
       <direction placement="below">
         <direction-type>
           <wedge default-y="-75" spread="0" type="crescendo"/>
@@ -15362,7 +15362,7 @@ cantando</words>
         <type>quarter</type>
         <stem default-y="-20">down</stem>
       </note>
-      <note default-x="106">
+      <note default-x="107">
         <pitch>
           <step>G</step>
           <alter>-1</alter>
@@ -15373,7 +15373,7 @@ cantando</words>
         <type>quarter</type>
         <stem default-y="-20">down</stem>
       </note>
-      <note default-x="152">
+      <note default-x="151">
         <pitch>
           <step>F</step>
           <octave>4</octave>
@@ -15383,7 +15383,7 @@ cantando</words>
         <type>quarter</type>
         <stem default-y="-20">down</stem>
       </note>
-      <note default-x="196">
+      <note default-x="197">
         <pitch>
           <step>E</step>
           <alter>-1</alter>
@@ -15405,7 +15405,7 @@ cantando</words>
         <type>quarter</type>
         <stem default-y="-20">down</stem>
       </note>
-      <note default-x="286">
+      <note default-x="287">
         <pitch>
           <step>C</step>
           <octave>4</octave>
@@ -15415,7 +15415,7 @@ cantando</words>
         <type>quarter</type>
         <stem default-y="-25">down</stem>
       </note>
-      <note default-x="331">
+      <note default-x="332">
         <pitch>
           <step>D</step>
           <alter>-1</alter>
@@ -18282,34 +18282,36 @@ cantando</words>
         </staff-layout>
       </print>
       <note default-x="127">
-        <rest>
-          <display-step>C</display-step>
-          <display-octave>4</display-octave>
-        </rest>
-        <duration>16</duration>
-        <voice>1</voice>
-        <type>breve</type>
-      </note>
-      <backup>
-        <duration>16</duration>
-      </backup>
-      <note default-x="127">
         <pitch>
           <step>B</step>
           <alter>-1</alter>
           <octave>3</octave>
         </pitch>
-        <duration>8</duration>
-        <voice>2</voice>
-        <type>whole</type>
+        <duration>16</duration>
+        <voice>1</voice>
+        <type>breve</type>
       </note>
     </measure>
     <!--=======================================================-->
     <measure number="29" width="773">
-      <note>
-        <rest measure="yes"/>
-        <duration>16</duration>
+      <note default-x="16">
+        <pitch>
+          <step>C</step>
+          <octave>3</octave>
+        </pitch>
+        <duration>8</duration>
         <voice>1</voice>
+        <type>whole</type>
+      </note>
+      <note default-x="394">
+        <pitch>
+          <step>B</step>
+          <alter>-1</alter>
+          <octave>2</octave>
+        </pitch>
+        <duration>8</duration>
+        <voice>1</voice>
+        <type>whole</type>
       </note>
     </measure>
     <!--=======================================================-->
@@ -18326,7 +18328,7 @@ cantando</words>
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="31" width="355">
+    <measure number="31" width="354">
       <attributes>
         <time>
           <beats>5</beats>
@@ -18354,7 +18356,7 @@ cantando</words>
       </note>
     </measure>
     <!--=======================================================-->
-    <measure number="33" width="377">
+    <measure number="33" width="378">
       <note>
         <rest measure="yes"/>
         <duration>16</duration>
@@ -18376,26 +18378,179 @@ cantando</words>
     </measure>
     <!--=======================================================-->
     <measure number="35" width="297">
-      <note>
-        <rest measure="yes"/>
-        <duration>16</duration>
+      <note default-x="23">
+        <rest/>
+        <duration>8</duration>
         <voice>1</voice>
+        <type>whole</type>
+      </note>
+      <note default-x="147">
+        <pitch>
+          <step>B</step>
+          <alter>-1</alter>
+          <octave>2</octave>
+        </pitch>
+        <duration>8</duration>
+        <tie type="start"/>
+        <voice>1</voice>
+        <type>whole</type>
+        <notations>
+          <tied type="start"/>
+        </notations>
       </note>
     </measure>
     <!--=======================================================-->
     <measure number="36" width="384">
-      <note>
-        <rest measure="yes"/>
-        <duration>16</duration>
+      <direction placement="below">
+        <direction-type>
+          <wedge default-y="-75" spread="0" type="crescendo"/>
+        </direction-type>
+      </direction>
+      <note default-x="16">
+        <pitch>
+          <step>B</step>
+          <alter>-1</alter>
+          <octave>2</octave>
+        </pitch>
+        <duration>2</duration>
+        <tie type="stop"/>
         <voice>1</voice>
+        <type>quarter</type>
+        <stem default-y="6">up</stem>
+        <notations>
+          <tied type="stop"/>
+        </notations>
+      </note>
+      <note default-x="62">
+        <pitch>
+          <step>A</step>
+          <octave>2</octave>
+        </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        <accidental>natural</accidental>
+        <stem default-y="0.5">up</stem>
+      </note>
+      <note default-x="108">
+        <pitch>
+          <step>B</step>
+          <alter>-1</alter>
+          <octave>2</octave>
+        </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        <stem default-y="6">up</stem>
+      </note>
+      <note default-x="154">
+        <pitch>
+          <step>C</step>
+          <octave>3</octave>
+        </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        <stem default-y="10">up</stem>
+      </note>
+      <direction>
+        <direction-type>
+          <wedge spread="15" type="stop"/>
+        </direction-type>
+      </direction>
+      <note default-x="200">
+        <pitch>
+          <step>A</step>
+          <octave>2</octave>
+        </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        <stem default-y="0.5">up</stem>
+      </note>
+      <note default-x="245">
+        <pitch>
+          <step>B</step>
+          <alter>-1</alter>
+          <octave>2</octave>
+        </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        <stem default-y="6">up</stem>
+      </note>
+      <note default-x="291">
+        <pitch>
+          <step>C</step>
+          <octave>3</octave>
+        </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        <stem default-y="10">up</stem>
+      </note>
+      <note default-x="337">
+        <pitch>
+          <step>B</step>
+          <alter>-1</alter>
+          <octave>2</octave>
+        </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        <stem default-y="6">up</stem>
       </note>
     </measure>
     <!--=======================================================-->
     <measure number="37" width="387">
-      <note>
-        <rest measure="yes"/>
-        <duration>16</duration>
+      <direction placement="below">
+        <direction-type>
+          <words default-y="-75">cresc.</words>
+        </direction-type>
+      </direction>
+      <note default-x="16">
+        <pitch>
+          <step>C</step>
+          <octave>3</octave>
+        </pitch>
+        <duration>2</duration>
         <voice>1</voice>
+        <type>quarter</type>
+        <stem default-y="10">up</stem>
+      </note>
+      <note default-x="62">
+        <pitch>
+          <step>D</step>
+          <alter>-1</alter>
+          <octave>3</octave>
+        </pitch>
+        <duration>6</duration>
+        <voice>1</voice>
+        <type>half</type>
+        <dot/>
+        <stem default-y="-55.5">down</stem>
+      </note>
+      <note default-x="201">
+        <pitch>
+          <step>C</step>
+          <octave>3</octave>
+        </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        <stem default-y="10">up</stem>
+      </note>
+      <note default-x="247">
+        <pitch>
+          <step>B</step>
+          <alter>-1</alter>
+          <octave>2</octave>
+        </pitch>
+        <duration>6</duration>
+        <voice>1</voice>
+        <type>half</type>
+        <dot/>
+        <stem default-y="6">up</stem>
       </note>
     </measure>
     <!--=======================================================-->
